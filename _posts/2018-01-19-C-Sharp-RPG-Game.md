@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Starting Learning Project - C# RPG Game
 
