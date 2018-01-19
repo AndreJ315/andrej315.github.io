@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Greetings, this is my first blog post'
+title: My first blog post
 published: true
 ---
 
