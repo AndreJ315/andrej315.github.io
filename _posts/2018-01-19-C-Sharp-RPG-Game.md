@@ -11,7 +11,7 @@ To learn the Fundamentals of C#
     * Handling user inputs
     * Doing common calculations
 
-### General info C#
+### General info on C#
 	* C# is case sensitive
     * C# is a higher level langauge
     * Functions, Procedures, Methods
