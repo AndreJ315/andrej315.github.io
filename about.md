@@ -5,9 +5,13 @@ permalink: /about/
 published: true
 ---
 
-Greetings
+## About this site
 
-My name is Andre, and I'm an aspiring developer
+Welcome to my blog, where I'll be reflecting on what I learn by doing small projects in a variety of programming langauges and technologies.
+
+If you are new to programming or would like to revisit some fundamental concepts then this blog is for you.
+
+
 
 ### More Information
 
