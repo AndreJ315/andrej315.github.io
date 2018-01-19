@@ -2,6 +2,7 @@
 published: false
 ---
 ## Starting my first Learning Project - C# #
+For my first project I'll be creating a C# RPG game from sctatch
 
 ### Purpose for starting this project:
 To learn the Fundamentals of C#
