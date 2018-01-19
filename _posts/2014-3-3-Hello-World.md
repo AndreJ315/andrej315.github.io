@@ -4,4 +4,4 @@ title: My first blog post
 published: true
 ---
 
-My name is André and I am a developer
+Here I'll do a case study of my first project in C#
