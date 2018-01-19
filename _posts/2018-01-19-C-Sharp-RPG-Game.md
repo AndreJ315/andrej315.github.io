@@ -1,7 +1,12 @@
 ---
 published: true
 ---
-## Starting Learning Project - C# RPG Game
+## Starting my first Learning Project - C# RPG Game
 
 ### Purpose for starting this project:
-    * To learn the basics of C#
+To learn the Fundamentals of C#
+
+### What will be learned?
+	* Creating Classes
+    * Handling user inputs
+    * Doing common calculations
