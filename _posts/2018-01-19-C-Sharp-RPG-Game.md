@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## Starting my first Learning Project - C# RPG Game
+## Starting my first Learning Project - C#
 
 ### Purpose for starting this project:
 To learn the Fundamentals of C#
